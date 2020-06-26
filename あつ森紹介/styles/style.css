@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(95, 62, 24);
+}
+body{
+    text-align:left;
+margin-right: auto;
+margin-left : auto;
+    width: 1000px;
+    background-color: white;
+
+}
+img{
+    
+    width: 100%;
+}
+ul{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h1{
+    background-color: red;
+
+}
